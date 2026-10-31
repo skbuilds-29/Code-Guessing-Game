@@ -4,6 +4,7 @@
 - [x] Uses index method to calculate how many numbers are right
 - [x] A guess counter to show how many guesses it took the user
 ## Upcoming Projects
+- [ ] Build a Tic-Tac-Toe game
 - [ ] Build a Snake game prototype
-- [ ] Use Streamlit for graphical layout of future projects (including snake)
-- [ ] Build Tic-Tac-Toe
+- [ ] Use Streamlit for graphical layout of future projects (including Tic-Tac-Toe)
+- [ ] Build a Snake game prototype
